@@ -3,3 +3,5 @@
 + ### 02.05.2022 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/ "описание задачи")
 ![img.png](resources/img.png)
 
++ ### 02.05.2022 [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/ "описание задачи")
+![img_1.png](resources/img_1.png)
